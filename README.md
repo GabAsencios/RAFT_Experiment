@@ -1,5 +1,3 @@
-# COMP 433
-
 
 ## Project Description
 
