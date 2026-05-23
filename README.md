@@ -63,3 +63,12 @@ During training, the model automatically validates and tests. Results are saved 
 ## Changes to source
 
 See `fix(RAFT)` commits
+
+# Team Members
+Youssef Ouakaa (40157718) 
+
+Gabriel Asencios (40176253) 
+
+Nicolae Rusu (40245233) 
+
+Ryan Mazari (40241379)
